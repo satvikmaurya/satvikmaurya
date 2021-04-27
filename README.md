@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a traditional MS student of the ECE department at UW-Madison. I'm passionate about computer architecture and I'm currently working on quantum control computer architectures.
+
 <!--
 **satvikmaurya/satvikmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
