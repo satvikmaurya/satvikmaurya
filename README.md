@@ -2,7 +2,7 @@
 
 I'm a PhD student at UW-Madison. I'm passionate about computer architecture and I'm currently working on quantum control computer architectures.
 
-[Website](satvikmaurya.github.io)
+[https://satvikmaurya.github.io/](https://satvikmaurya.github.io/)
 
 <!--
 **satvikmaurya/satvikmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
